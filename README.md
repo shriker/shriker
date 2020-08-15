@@ -55,3 +55,5 @@
 <a href="https://www.deviantart.com/shriker/art/Love-Letter-817032105"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e4be02-c070-421a-a802-6996ebdd679b/ddifu09-4fe5b37a-cd78-4cf9-ac9c-61e5c01e275c.jpg/v1/fit/w_150,h_150,q_70,strp/love_letter_by_shriker_ddifu09-150.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0yOTEiLCJwYXRoIjoiXC9mXC9lN2U0YmUwMi1jMDcwLTQyMWEtYTgwMi02OTk2ZWJkZDY3OWJcL2RkaWZ1MDktNGZlNWIzN2EtY2Q3OC00Y2Y5LWFjOWMtNjFlNWMwMWUyNzVjLmpwZyIsIndpZHRoIjoiPD0zNzcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.kGBRIK0TCZ5K2moPLRGGQkuH1xswsMxBEbiPbQIIcws" alt="Love Letter" height="60"></a> 
 <!-- artwork ends -->
 </td></tr></table>
+
+<a href="https://github.com/shriker/shriker"><img align="right" alt="Build README" src="https://github.com/shriker/shriker/workflows/Build%20README/badge.svg"></a>
