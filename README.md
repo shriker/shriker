@@ -1,13 +1,13 @@
-I must be doing something right.
+# I must be doing something right.
 
 <i>she/her</i>
 
 [![Twitter: shriker](https://img.shields.io/twitter/follow/shriker?style=social)](https://twitter.com/shriker) [![GitHub shriker](https://img.shields.io/github/followers/shriker?label=follow&style=social)](https://github.com/shriker)
 [![LinkedIn: shriker](https://img.shields.io/badge/-jodiestruthers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jodiestruthers/)](https://www.linkedin.com/in/jodiestruthers/)
 
-<table border="0" width="100%" padding="0" margin="0"><tr><td valign="top" width="50%">
+<table border="0" width="100%" padding="0" margin="0"><tr><td valign="top">
 
-## latest from [shriker.ca](http://shriker.ca)
+## 📝 latest from [shriker.ca](http://shriker.ca)
 
 <!-- blog starts -->
 * [Silos and How They Impede Productivity](https://shriker.ca/silos-how-they-impede-productivity/) - 2020/08/13
@@ -17,9 +17,9 @@ I must be doing something right.
 * [Meet the Bioactive Clean up Crew](https://shriker.ca/meet-the-bioactive-clean-up-crew/) - 2020/01/05
 <!-- blog ends -->
 
-</td><td valign="top" width="50%">
+</td><td valign="top">
 
-## communities
+## 🐚 communities
 
 * [Shadowlack](https://shadowlack.com)
 * [RPGfix](https://www.rpgfix.com/)
@@ -28,7 +28,7 @@ I must be doing something right.
 
 </td></tr><tr><td colspan="2">
 
-## project [portfolio](http://shriker.ca/projects/)
+## 👩‍💻 project [portfolio](http://shriker.ca/projects/)
 
 <!-- portfolio starts -->
 <a href="https://shriker.ca/axia-fibrenet/"><img src="https://shriker.ca/content/images/2018/11/axiafibrenet.com_header.png" alt="Axia FibreNet" height="100"></a> 
@@ -40,7 +40,7 @@ I must be doing something right.
 
 </td></tr><tr><td colspan="2">
 
-## artwork from [deviantArt](https://www.deviantart.com/shriker)
+## 🖼️ artwork from [deviantArt](https://www.deviantart.com/shriker)
 
 <!-- artwork starts -->
 <a href="https://www.deviantart.com/shriker/art/City-of-Aurius-817046165"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e4be02-c070-421a-a802-6996ebdd679b/ddig4ut-2a2ec712-a1c3-4f0d-b77a-c51a04008a8e.jpg/v1/fit/w_150,h_150,q_70,strp/city_of_aurius_by_shriker_ddig4ut-150.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD01ODIiLCJwYXRoIjoiXC9mXC9lN2U0YmUwMi1jMDcwLTQyMWEtYTgwMi02OTk2ZWJkZDY3OWJcL2RkaWc0dXQtMmEyZWM3MTItYTFjMy00ZjBkLWI3N2EtYzUxYTA0MDA4YThlLmpwZyIsIndpZHRoIjoiPD03ODIifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.VvSvF9GG5CuDEkaUImPW3dqwmERaBNz2TwfNoBgfIjE" alt="City of Aurius" height="60"></a> 
