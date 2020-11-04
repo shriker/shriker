@@ -10,11 +10,11 @@
 ## 📝 latest from [shriker.ca](http://shriker.ca)
 
 <!-- blog starts -->
+* [Seize the Night](https://shriker.ca/seize-the-night/) - 2020/10/21
+* [Varg Auth](https://shriker.ca/varg-auth/) - 2020/09/01
 * [Silos and How They Impede Productivity](https://shriker.ca/silos-how-they-impede-productivity/) - 2020/08/13
 * [Building a MUD in 2020](https://shriker.ca/building-a-mud-in-2020/) - 2020/04/21
 * [Where to Find Remote Jobs](https://shriker.ca/where-to-find-remote-jobs/) - 2020/02/10
-* [Using Boxstarter and Chocolately for Repeatable Windows 10 Installations](https://shriker.ca/using-boxstarter-chocolately-repeatable-windows-10-installations/) - 2020/02/08
-* [Meet the Bioactive Clean up Crew](https://shriker.ca/meet-the-bioactive-clean-up-crew/) - 2020/01/05
 <!-- blog ends -->
 
 </td><td valign="top">
@@ -31,11 +31,11 @@
 ## 👩‍💻 project [portfolio](http://shriker.ca/projects/)
 
 <!-- portfolio starts -->
+<a href="https://shriker.ca/seize-the-night/"><img src="https://shriker.ca/content/images/2020/11/seize-the-night-neopets-guild.png" alt="Seize the Night" height="100"></a> 
+<a href="https://shriker.ca/varg-auth/"><img src="https://shriker.ca/content/images/2020/11/varg-auth.png" alt="Varg Auth" height="100"></a> 
 <a href="https://shriker.ca/axia-fibrenet/"><img src="https://shriker.ca/content/images/2018/11/axiafibrenet.com_header.png" alt="Axia FibreNet" height="100"></a> 
 <a href="https://shriker.ca/axia-fibre-to-the-premise/"><img src="https://shriker.ca/content/images/2018/11/www.axia.com_home_cropped.png" alt="Axia Fibre to the Premise" height="100"></a> 
 <a href="https://shriker.ca/connect-alberta/"><img src="https://shriker.ca/content/images/2018/11/connectalberta.ca_header.png" alt="Connect Alberta" height="100"></a> 
-<a href="https://shriker.ca/axia-fibrenet-hub/"><img src="https://shriker.ca/content/images/2018/11/axiafibrenet.force.com_users-1.png" alt="Axia FibreNet Hub" height="100"></a> 
-<a href="https://shriker.ca/shadowlack/"><img src="https://shriker.ca/content/images/2018/11/shadowlack-project.png" alt="Shadowlack" height="100"></a> 
 <!-- portfolio ends -->
 
 </td></tr><tr><td colspan="2">
