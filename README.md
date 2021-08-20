@@ -10,11 +10,11 @@
 ## 📝 latest from [shriker.ca](http://shriker.ca)
 
 <!-- blog starts -->
+* [Indoor Wood Dado Rail/Ledge Restoration](https://shriker.ca/indoor-wood-dado-rail-ledge-restoration/) - 2021/08/19
 * [Muskoka's Power Professionals](https://shriker.ca/muskokas-power-professionals-electrician/) - 2021/04/19
 * [Seize the Night](https://shriker.ca/seize-the-night/) - 2020/10/21
 * [Varg Auth](https://shriker.ca/varg-auth/) - 2020/09/01
 * [Silos and How They Impede Productivity](https://shriker.ca/silos-how-they-impede-productivity/) - 2020/08/13
-* [Building a MUD in 2020](https://shriker.ca/building-a-mud-in-2020/) - 2020/04/21
 <!-- blog ends -->
 
 </td><td valign="top">
