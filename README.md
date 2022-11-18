@@ -2,7 +2,7 @@
 
 <i>she/her</i>
 
-[![Twitter: shriker](https://img.shields.io/twitter/follow/shriker?style=social)](https://twitter.com/shriker) [![GitHub shriker](https://img.shields.io/github/followers/shriker?label=follow&style=social)](https://github.com/shriker)
+[![Mastodon: @shriker@blackshuck.net](https://img.shields.io/mastodon/follow/109277165387470582?domain=https%3A%2F%2Fblackshuck.net&style=social)]([https://twitter.com/shriker](https://blackshuck.net/@shriker))
 [![LinkedIn: shriker](https://img.shields.io/badge/-jodiestruthers-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jodiestruthers/)](https://www.linkedin.com/in/jodiestruthers/)
 
 <table border="0" width="100%" padding="0" margin="0"><tr><td valign="top">
