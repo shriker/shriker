@@ -69,11 +69,11 @@ if __name__ == "__main__":
     rewritten = replace_chunk(readme_contents, "blog", entries_md)
 
     # artwork
-    entries = fetch_portfolio()[:5]
-    entries_md = "\n".join(
-        ['<a href="{url}"><img src="{image}" alt="{title}" height="100"></a> '.format(**entry)
-         for entry in entries]
-    )
+    #entries = fetch_portfolio()[:5]
+    #entries_md = "\n".join(
+    #    ['<a href="{url}"><img src="{image}" alt="{title}" height="100"></a> '.format(**entry)
+    #     for entry in entries]
+    #)
     #rewritten = replace_chunk(rewritten, "portfolio", entries_md)
 
     # artwork
