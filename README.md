@@ -28,18 +28,6 @@
 
 </td></tr><tr><td colspan="2">
 
-## 👩‍💻 project [portfolio](http://shriker.ca/projects/)
-
-<!-- portfolio starts -->
-<a href="https://shriker.ca/muskokas-power-professionals-electrician/"><img src="https://shriker.ca/content/images/2021/07/muskokas-power-professionals.png" alt="Muskoka's Power Professionals" height="100"></a> 
-<a href="https://shriker.ca/seize-the-night/"><img src="https://shriker.ca/content/images/2020/11/seize-the-night-neopets-guild.png" alt="Seize the Night" height="100"></a> 
-<a href="https://shriker.ca/varg-auth/"><img src="https://shriker.ca/content/images/2020/11/varg-auth.png" alt="Varg Auth" height="100"></a> 
-<a href="https://shriker.ca/axia-fibrenet/"><img src="https://shriker.ca/content/images/2018/11/axiafibrenet.com_header.png" alt="Axia FibreNet" height="100"></a> 
-<a href="https://shriker.ca/axia-fibre-to-the-premise/"><img src="https://shriker.ca/content/images/2018/11/www.axia.com_home_cropped.png" alt="Axia Fibre to the Premise" height="100"></a> 
-<!-- portfolio ends -->
-
-</td></tr><tr><td colspan="2">
-
 ## 🖼️ artwork from [deviantArt](https://www.deviantart.com/shriker)
 
 <!-- artwork starts -->
