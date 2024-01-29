@@ -17,7 +17,7 @@ def replace_chunk(content, marker, chunk):
 
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://shriker.ca/journal/rss/")["entries"]
+    entries = feedparser.parse("https://shriker.ca/posts/index.xml")["entries"]
     return [
         {
             "title": entry["title"],
@@ -30,7 +30,7 @@ def fetch_blog_entries():
 
 def fetch_portfolio():
     entries = feedparser.parse(
-        "https://shriker.ca/tag/portfolio/rss/")["entries"]
+        "https://shriker.ca/projects/index.xml")["entries"]
     return [
         {
             "title": entry["title"],
@@ -74,7 +74,7 @@ if __name__ == "__main__":
         ['<a href="{url}"><img src="{image}" alt="{title}" height="100"></a> '.format(**entry)
          for entry in entries]
     )
-    rewritten = replace_chunk(rewritten, "portfolio", entries_md)
+    #rewritten = replace_chunk(rewritten, "portfolio", entries_md)
 
     # artwork
     entries = fetch_artwork()[:10]
