@@ -12,9 +12,9 @@
 <!-- blog starts -->
 * [2024 Clover Lawn + Pollinators](https://shriker.ca/2024-clover-lawn-pollinators/) - 2024/06/30
 * [2024 Spring Sprung](https://shriker.ca/2024-spring-sprung/) - 2024/05/12
+* [Best Application Security Books](https://shriker.ca/best-application-security-books/) - 2024/02/15
 * [2023 Summer Garden](https://shriker.ca/2023-summer-garden-calgary/) - 2023/06/17
 * [Building a TaterToaster](https://shriker.ca/building-a-tatertoaster/) - 2022/12/03
-* [Canadian Raw Pet Food Suppliers](https://shriker.ca/canadian-raw-pet-food-suppliers/) - 2022/02/13
 <!-- blog ends -->
 
 </td><td valign="top">
