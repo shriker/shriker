@@ -10,11 +10,11 @@
 ## 📝 latest from [shriker.ca](http://shriker.ca)
 
 <!-- blog starts -->
+* [2024 Clover Lawn + Pollinators](https://shriker.ca/2024-clover-lawn-pollinators/) - 2024/06/30
+* [2024 Spring Sprung](https://shriker.ca/2024-spring-sprung/) - 2024/05/12
 * [2023 Summer Garden](https://shriker.ca/2023-summer-garden-calgary/) - 2023/06/17
 * [Building a TaterToaster](https://shriker.ca/building-a-tatertoaster/) - 2022/12/03
 * [Canadian Raw Pet Food Suppliers](https://shriker.ca/canadian-raw-pet-food-suppliers/) - 2022/02/13
-* [Indoor Wood Dado Rail/Ledge Restoration](https://shriker.ca/indoor-wood-dado-rail-ledge-restoration/) - 2021/08/13
-* [Silos and How They Impede Productivity](https://shriker.ca/silos-how-they-impede-productivity/) - 2020/08/13
 <!-- blog ends -->
 
 </td><td valign="top">
