@@ -10,11 +10,11 @@
 ## 📝 latest from [shriker.ca](http://shriker.ca)
 
 <!-- blog starts -->
+* [Jodie's Zettelkasten](https://shriker.ca/jodies-zettelkasten/) - 2024/10/26
 * [Best Leadership and Management Books](https://shriker.ca/best-leadership-management-books/) - 2024/07/15
 * [2024 Clover Lawn + Pollinators](https://shriker.ca/2024-clover-lawn-pollinators/) - 2024/06/30
 * [2024 Spring Sprung](https://shriker.ca/2024-spring-sprung/) - 2024/05/12
 * [Best Application Security Books](https://shriker.ca/best-application-security-books/) - 2024/02/15
-* [2023 Summer Garden](https://shriker.ca/2023-summer-garden-calgary/) - 2023/06/17
 <!-- blog ends -->
 
 </td><td valign="top">
