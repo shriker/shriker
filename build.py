@@ -49,7 +49,7 @@ def fetch_artwork():
             "title": entry["title"],
             "url": entry["link"].split("#")[0],
             "published": "%d/%02d/%02d" % (entry.published_parsed.tm_year, entry.published_parsed.tm_mon, entry.published_parsed.tm_mday),
-            "image": entry["media_thumbnail"][0]["url"]
+            "image": entry["media_content"][0]["url"]
         }
         for entry in entries
     ]
