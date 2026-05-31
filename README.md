@@ -21,18 +21,20 @@
 
 ## 🐚 communities
 
+* [OWASP](https://owasp.org/)
+* [c0wsec](https://www.c0wsec.ca/)
 * [Shadowlack](https://shadowlack.com)
 * [RPGfix](https://www.rpgfix.com/)
-* [c0wsec](https://www.c0wsec.ca/)
-* [OWASP](https://owasp.org/)
 
-</td></tr><tr><td colspan="2">
+</td></tr>
+<!-- <tr><td colspan="2"> -->
 
-## 🖼️ artwork from [deviantArt](https://www.deviantart.com/shriker)
+<!-- ## 🖼️ artwork from [deviantArt](https://www.deviantart.com/shriker) -->
 
 <!-- artwork starts -->
 
 <!-- artwork ends -->
-</td></tr></table>
+<!-- </td></tr> -->
+</table>
 
 <a href="https://github.com/shriker/shriker"><img align="right" alt="Build README" src="https://github.com/shriker/shriker/workflows/Build%20README/badge.svg"></a>
