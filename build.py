@@ -77,11 +77,11 @@ if __name__ == "__main__":
     #rewritten = replace_chunk(rewritten, "portfolio", entries_md)
 
     # artwork
-    entries = fetch_artwork()[:10]
-    entries_md = "\n".join(
-        ['<a href="{url}"><img src="{image}" alt="{title}" height="60"></a> '.format(**entry)
-         for entry in entries]
-    )
-    rewritten = replace_chunk(rewritten, "artwork", entries_md)
+    # entries = fetch_artwork()[:10]
+    # entries_md = "\n".join(
+    #    ['<a href="{url}"><img src="{image}" alt="{title}" height="60"></a> '.format(**entry)
+    #      for entry in entries]
+    # )
+    # rewritten = replace_chunk(rewritten, "artwork", entries_md)
 
     readme.open("w", encoding="utf-8").write(rewritten)
